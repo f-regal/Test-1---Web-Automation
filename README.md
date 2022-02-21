@@ -8,6 +8,10 @@ This project contains automated End-to-End tests which were carried out on the S
 
 You will need Cypress installed, please follow the guide on https://docs.cypress.io/guides/getting-started/installing-cypress#Installing
 
+Note: In order to access the different packages used within this project, you may need to run the following command in the terminal:
+
+npm install
+
 To run the test in the browser from the root directory, run the following command and click the feature file displayed in the cypress client:
 
 npx cypress open
